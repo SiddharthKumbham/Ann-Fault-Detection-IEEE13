@@ -1,0 +1,14 @@
+# Simulink generated cache and build products
+slprj/
+*.slxc
+*.autosave
+*.asv
+*.m~
+*.slx.r20*
+*.bak
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
